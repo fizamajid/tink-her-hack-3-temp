@@ -1,60 +1,41 @@
-# [Project Name] 🎯
+# BUZWALA - Rural Bus Services 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: F & F
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: FIZA MAJID- COET
+- Member 2: FATHIMA A K - COET
+- Member 3: FARHANA - COET
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+ https://fizamajid.github.io/BUZWALA/
 
 ### Project Description
-[2-3 lines about what your project does]
+wE are decided to solve a thousands of peoples problem.To find the buses mainly in rural areas in their finger tips.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+Whenever a new people come to new places,how do you know there will be bus available through that particular area?
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+By introducing an app which is very user-friendly and yet beautiful app for everyone without any  age limits.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML,CSS,JAVASCRIPT  
+- Visual Studio
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![image](https://github.com/user-attachments/assets/ea75e290-1462-4c81-b1a8-06aa74ddf03c)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
